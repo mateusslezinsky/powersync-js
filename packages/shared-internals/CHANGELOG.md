@@ -1,5 +1,11 @@
 # @powersync/shared-internals
 
+## 1.3.1
+
+### Patch Changes
+
+- 7bae50c: Fix `onChangeWithCallback` and `AbstractQueryProcessor` leaking listeners when aborted early (closes #1056).
+
 ## 1.3.0
 
 ### Minor Changes

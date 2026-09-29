@@ -1,5 +1,11 @@
 # @powersync/react
 
+## 2.0.2
+
+### Patch Changes
+
+- 7bae50c: Fix watched `useQuery` hook leaking listeners in strict mode.
+
 ## 2.0.1
 
 ### Patch Changes
